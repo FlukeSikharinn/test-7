@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Title from '../components/Title'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faClone, faCopy } from '@fortawesome/free-solid-svg-icons';
+import { faCopy } from '@fortawesome/free-solid-svg-icons';
 import { toast } from 'react-toastify'
 
 interface User {
